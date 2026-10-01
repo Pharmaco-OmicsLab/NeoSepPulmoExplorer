@@ -1,0 +1,28 @@
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# shinyapps.io deployment records (account-specific)
+rsconnect/
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary local downloads
+.tmp_sample_download/
+
+# Data: track only the public example dataset from the app download
+data/**
+!data/
+!data/example/
+!data/example/Example_metadata.csv
+!data/example/data_normalized.csv
+!data/example/ENSEMBL_ID_Covert.csv
+!data/example/DEA_full_genes_FDR_1.csv
+!data/example/DEA_FDR_0.05.csv
+!data/example/KEGG_GSEA_Results.csv
+!data/NeoSepPulmoExplorer_Example_Dataset.zip

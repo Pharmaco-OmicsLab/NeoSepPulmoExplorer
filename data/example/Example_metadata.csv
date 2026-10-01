@@ -1,0 +1,4 @@
+ID,RNAseq_ID,Correct_Group,SE_Control
+B1,lung_101,High-SE,SE
+C1,lung_109,Low-SE ,SE
+E1,lung_108,Low-SE ,SE
